@@ -1,6 +1,6 @@
 # Skillmio’s Blocklists
 
-**Skillmio’s Blocklists** is an open-source collection of **DNS and IP blocklists** derived from the real-world filtering logic and threat intelligence used by **dns.skillmio**, our **free public DNS service**.
+**Skillmio’s Blocklists** is an open-source collection of **DNS and IP blocklists** derived from the real-world filtering logic and threat intelligence used by **dns.skillmio.net**, our **free public DNS service**.
 
 These blocklists are designed to enhance **privacy, security, and network performance** by stopping unwanted and malicious traffic at the DNS and network layers.
 
