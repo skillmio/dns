@@ -1,0 +1,6 @@
+
+## Install Technitium 
+curl -sSL https://download.technitium.com/dns/install.sh | sudo bash
+
+##
+
