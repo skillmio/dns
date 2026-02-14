@@ -5,6 +5,9 @@ export PIHOLE_SELINUX=true
 curl -sSL https://install.pi-hole.net | bash
 ```
 
+
+
+
 ## POSTINSTALL 
 
 ### Set password
