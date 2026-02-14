@@ -57,6 +57,12 @@ wget https://raw.githubusercontent.com/skillmio/dns/master/scripts/export-domain
 chmod +x export-domains.sh
 ./export-domains.sh
 ```
+## DOWNLOAD CLEAN BLOCKED DOMAINS FILE
+
+### Windows
+```Bash
+scp root@172.20.232.127:/tmp/clean_blocked_domains.txt "%USERPROFILE%\Downloads"
+```
 
 ### UPDATE DOMAIN-BLIST 
 After copy and paste content to domain-blist
