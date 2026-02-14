@@ -1,0 +1,46 @@
+
+
+
+
+# 2026-02-14
+0.0.0.0 ads.microsoft.com
+0.0.0.0 liftoff.io
+0.0.0.0 pubmatic.com
+0.0.0.0 ironSource.mobi
+0.0.0.0 is.com
+0.0.0.0 s.youtube.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 pangleglobal.com
+0.0.0.0 tagmanager.google.com
+0.0.0.0 analytics.adobe.io
+0.0.0.0 s.clarity.ms
+0.0.0.0 fingerprintjs.com
+0.0.0.0 thetradedesk.com
+0.0.0.0 prod.uidapi.com
+0.0.0.0 clevertap-prod.com
+0.0.0.0 bnc.lt
+0.0.0.0 2giga.link
+0.0.0.0 greatis.com
+0.0.0.0 xp.apple.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 ngfts.lge.com
+0.0.0.0 mads-eu.amazon.com
+0.0.0.0 ads.roku.com
+0.0.0.0 shareasale-analytics.com
+0.0.0.0 impact.com
+0.0.0.0 api.impact.com
+0.0.0.0 www.awin1.com
+0.0.0.0 zenaps.com
+0.0.0.0 partnerstack.com
+0.0.0.0 api.partnerstack.com
+0.0.0.0 api.refersion.com
+0.0.0.0 widget.intercom.io
+0.0.0.0 js.driftt.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 dai.google.com
+0.0.0.0 ssl.p.jwpcdn.com
+0.0.0.0 px.srvcs.tumblr.com
+
+
