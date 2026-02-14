@@ -43,6 +43,7 @@ echo "  exempt.txt (downloaded)"
 echo "  all_blocked_domains.txt.bak (backup)"
 
 echo ""
+echo "On a windows client:"
 echo 'Next Step: scp $(whoami)@$(hostname -I | awk "{print $1}"):/tmp/clean_blocked_domains.txt "%USERPROFILE%\Downloads" '
 
 
